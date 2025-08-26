@@ -1,0 +1,41 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# JetBrains Rider cache
+.idea/
+
+# Others
+*.dbmdl
